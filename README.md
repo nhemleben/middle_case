@@ -1,7 +1,7 @@
 Generate a middle case alphabet using VAE and the EMINST data set with Pytorch.
 
 
-![something about htis repo] (./examples/average_figure/ltsp_10_middle_mega_image_mean_vector.png)
+![something about htis repo](./examples/average_figure/ltsp_10_middle_mega_image_mean_vector.png)
 
 
 
