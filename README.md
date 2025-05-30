@@ -7,10 +7,10 @@ Average lower case letters from data set
 ![Average lower case letters in dataset](./examples/average_letter/ltsp_10_lower_case.png)
 
 Upper Case Numbers
-![Upper Case Numbers](./examples/upper_case_numbers/ltsp_10_letter_by_letter_to_upper.png)
+![Upper Case Numbers](./examples/upper_case_numbers/ltsp_10_letter_by_letter_to_upper_.png)
 
 Middle Case Figures
-![Middle Case Numbers and Letters](./examples/average_letter/ltsp_10_middle_mega_image_mean_vector.png)
+![Middle Case Numbers and Letters](./examples/average_figure/ltsp_10_middle_mega_image_mean_vector.png)
 
 
 **References:**
