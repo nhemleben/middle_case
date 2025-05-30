@@ -1,11 +1,19 @@
-Generate a middle case alphabet using VAE and the EMINST data set with Pytorch.
+Explore the ability of a neural network to extend the notion of upper/lower case to multiple uppers/lowers and generate a middle case alphabet.
+Implemented using VAE and the EMINST data set with Pytorch. 
+
+Examples with latent space size 10 and 500 epochs of training:
+
+Average lower case letters from data set
+![Average lower case letters in dataset](./examples/average_letter/ltsp_10_lower_case.png)
+
+Upper Case Numbers
+![Upper Case Numbers](./examples/upper_case_numbers/ltsp_10_letter_by_letter_to_upper.png)
+
+Middle Case Figures
+![Middle Case Numbers and Letters](./examples/average_letter/ltsp_10_middle_mega_image_mean_vector.png)
 
 
-![something about htis repo](./examples/average_figure/ltsp_10_middle_mega_image_mean_vector.png)
-
-
-
-References:
+**References:**
 
 Original MNIST Code: https://github.com/lyeoni/pytorch-mnist-VAE
 
